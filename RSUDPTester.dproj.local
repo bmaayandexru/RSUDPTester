@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.846,=D:\bma\Documents\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,=D:\bma\Documents\Embarcadero\RSTester\UfrmTraffic1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,=D:\bma\Documents\Embarcadero\bmaTools\bmaTools.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.457,D:\bma\Documents\Embarcadero\RSTester\RSUDPTester.dproj=D:\bma\Documents\Embarcadero\RSTester\RSTester.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,D:\bma\Documents\Embarcadero\RSTester\bmaTools.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,D:\bma\Documents\Embarcadero\RSTester\UfrmMain.pas=D:\bma\Documents\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,D:\bma\Documents\Embarcadero\RSTester\UfrmMain.dfm=D:\bma\Documents\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,D:\bma\Documents\Embarcadero\RSTester\RSTester.dproj=D:\bma\Documents\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=D:\bma\Documents\Embarcadero\RSTester\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,D:\bma\Documents\Embarcadero\RSTester\Unit1.pas=D:\bma\Documents\Embarcadero\RSTester\bmaTools.pas</Transaction>
+  </Transactions>
+</BorlandProject>
